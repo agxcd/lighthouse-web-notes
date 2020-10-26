@@ -1,4 +1,8 @@
 # Angie's Notes
 
-### Try out different text size
-###### This is an H6 header (smallest)
+## Summary
+
+
+
+This Repository contains all of the notes taken taken by [Angie](https://github.com/agxcd) for the Lighthouse Labs Web Development Bootcamp.
+
